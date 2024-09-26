@@ -1,2 +1,4 @@
- [!TIP]
-Daily Uses JavaScript.
+> [!TIP]
+> Daily Uses JavaScript.
+
+    console.log('Daily uses JavaScript');
