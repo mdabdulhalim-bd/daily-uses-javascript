@@ -1,0 +1,2 @@
+ [!TIP]
+Daily Uses JavaScript.
